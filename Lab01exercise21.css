@@ -56,7 +56,7 @@ figure div {
 figure div p {
     background: url(images/share.png) no-repeat; 
     padding-left: 18px;
-    /*background-position: 0.4px;*/
+    background-position: 0.4px;
 }
 
 span.share{
